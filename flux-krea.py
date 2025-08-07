@@ -86,4 +86,4 @@ def fastapi_app():
     return web_app
 
 if __name__ == "__main__":
-    modal run qwen_krea_modal.py
+    print("run ok")
